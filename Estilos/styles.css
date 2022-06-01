@@ -1,0 +1,23 @@
+h1 { color:#802a35; 
+    text-align: center;
+    background-color: #b59ea1;
+}
+h2 { COLOR:#802a35;
+    background-color: #b59ea1;
+}
+ul#datospersonales span {
+    font-weight: bold;
+    font-style: italic;
+}
+span.negrita {
+    font-weight: bold;
+}
+div {
+    background-color: #dbcecf;
+}
+p.cssfooter {
+    text-align: center;
+}
+footer {
+    background-color:#5c1a23;
+}
