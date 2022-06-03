@@ -1,0 +1,14 @@
+body {
+    background-color: #b59ea1;
+}
+.BACKTOINDEX {
+    font-weight: bold;
+    color: #802a35;   
+}
+img {
+    height: 150;
+    width: 150;
+}
+section {
+    text-align: center;
+}

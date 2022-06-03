@@ -1,4 +1,12 @@
-h1 { color:#802a35; 
+/* *{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} */  
+
+
+h1 { 
+     color:#802a35; 
     text-align: center;
     background-color: #b59ea1;
 }
@@ -20,4 +28,18 @@ p.cssfooter {
 }
 footer {
     background-color:#5c1a23;
+    text-align: center;
+}
+
+.icono {
+    height: 20px;
+    margin-left: 15px ;
+}
+p {
+    font-weight: bold;
+}
+#sobremi {
+    display: flex;
+    justify-content: center;
+    
 }
