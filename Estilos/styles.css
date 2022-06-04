@@ -29,6 +29,7 @@ p.cssfooter {
 footer {
     background-color:#5c1a23;
     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .icono {
@@ -43,3 +44,7 @@ p {
     justify-content: center;
     
 }
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
